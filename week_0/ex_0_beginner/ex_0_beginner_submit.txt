@@ -1,1 +1,4 @@
 Copy and paste output of ex_0_beginner_runfile.py below:
+Hello! My name is Salomé, and I’m passionate about science and innovation. I aim to build a career in a laboratory environment where I can combine my knowledge in biology with transversal skills in areas such as bioinformatics and business. I’m curious, motivated, and eager to contribute to projects that bridge scientific research and real-world applications. My goal is to develop a versatile profile that connects science, technology, and management.
+
+The last place I went with no computers was my mother’s womb, and even then, I think there was Wi-Fi!
