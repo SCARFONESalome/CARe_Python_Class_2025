@@ -1,4 +1,30 @@
 Copy and paste output of ex_0_beginner_runfile.py below:
-Hello! My name is Salomé, and I’m passionate about science and innovation. I aim to build a career in a laboratory environment where I can combine my knowledge in biology with transversal skills in areas such as bioinformatics and business. I’m curious, motivated, and eager to contribute to projects that bridge scientific research and real-world applications. My goal is to develop a versatile profile that connects science, technology, and management.
 
-The last place I went with no computers was my mother’s womb, and even then, I think there was Wi-Fi!
+/usr/bin/python3 /Users/salomescarfone/PycharmProjects/CARe_Python_Class_2025/week_0/ex_0_beginner/ex_0_beginner_runfile.py
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+Hi! My name is Salomé.
+
+The last place I went without Wi-Fi or phone signal was last week during my vacation. It was completely off the grid,no internet, no network, but at least there was a microwave! It was the perfect spot to really disconnect and relax
+
+Process finished with exit code 0
